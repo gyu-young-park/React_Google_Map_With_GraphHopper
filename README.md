@@ -6,6 +6,10 @@
 또한, 위의 코드들은 다른 코드들을 배끼지 않고 만들어서 어떠한 저작권 문제도 없습니다.
 
 ## How to build
+
+-해당 code에서 사용하지 않은 package들이 있을 수 있습니다.  
+이 부분들은 이전에 사용했던 코드에서 있던 부분이므로 삭제해주고 설치해주세요(ex - typescript)  
+
 1. node_modules를 제외해서 넣었으니 npm install로 설치해주세요.->package.json의 정보를 통해 설치되니 만약 필요한 라이브러리가 있다면 package.json에 추가해주세요. ex) npm install jest --save(--save를 하면 자동으로 package.json에 dependency가 추가됩니다. 만약 개발 시에만 사용하는 dependency라면 --save-dev로 넣어주세요.)      
     ```bash
     $ npm install

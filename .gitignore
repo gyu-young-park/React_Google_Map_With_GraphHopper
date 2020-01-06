@@ -6,6 +6,7 @@
 .next/*
 /.next
 /.env
+/.idea
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json

@@ -55,7 +55,7 @@
 3. 사용 기술
   -react를 사용하되 docs에서 공식 구현 방법으로 제시한 react-hooks 방식을 이용합니다.  
   -데이터 관리는 redux 모델을 이용합니다.  
-  -next.js로 SSR를 지원합니다. docs가 매우 간단하며 쉬우니 한 번 읽어주시기 바랍니다.  
+  -next.js로 SSR를 지원합니다. code spliting을 잘하시면 하실 필요없습니다.   
   -css 프레임워크로는 antd를 사용했습니다. semantic ui, bootstrap react , Material 아무거나 편하고 이쁜거 사용해도 상관없습니다.  
   -eslint로 코딩 스타일을 강제합니다. 원하는 대로 옵션을 추가해도 되지만, 추가할 경우 모두에게 알려주셔야 합니다.  
   -redux를 이용하고 redux 데이터들이 비동기 제어가 필요할 때가 있다면 redux-saga를 사용합니다.  

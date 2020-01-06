@@ -1,6 +1,9 @@
 # React google map으로 구현된 rounting 웹입니다.  
 날씨 제공, strava 연동, Google Map , Search, 고도 정보, 경로 탐색, firebase 연동 등의 기능이 담겨져 있습니다.  
-2020 01 06, 현재 레이시오 회사에서 웹을 사용 중이라 2019, 11월 이후의 개발 내용들을 삭제했습니다.  
+2020 01 06, 현재 회사에서 웹을 사용 중이라 2019의 일부 개발 내용들을 삭제했고, 다시 Repo를 만들었습니다.  
+해당 부분들은 회사에서 허락한 부분으로 문제가 되지 않습니다.  
+
+또한, 위의 코드들은 다른 코드들을 배끼지 않고 만들어서 어떠한 저작권 문제도 없습니다.
 
 ## How to build
 1. node_modules를 제외해서 넣었으니 npm install로 설치해주세요.->package.json의 정보를 통해 설치되니 만약 필요한 라이브러리가 있다면 package.json에 추가해주세요. ex) npm install jest --save(--save를 하면 자동으로 package.json에 dependency가 추가됩니다. 만약 개발 시에만 사용하는 dependency라면 --save-dev로 넣어주세요.)      
@@ -58,7 +61,7 @@
 
 ## Architecture
 
-레이시오 웹 개발 프로젝트 입니다.  
+웹 개발 프로젝트 입니다.  
 초기 폴더의 구성은 다음과 같습니다.    
 
 - .eslintrc                  : eslint를 설정해놓는 부분입니다.  

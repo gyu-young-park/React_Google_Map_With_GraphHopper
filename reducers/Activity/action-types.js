@@ -1,0 +1,9 @@
+export const PUSH_STT_DATA_TO_LIST = "PUSH_STT_DATA_TO_LIST"
+export const GET_STT_DATA_LIST = "GET_STT_DATA_LIST"
+
+export const PUSH_LOG_DATA_TO_LIST = "PUSH_LOG_DATA_TO_LIST"
+
+export const SET_LOGLIST = "SET_LOGLIST"
+export const SET_STTLIST = "SET_STTLIST"
+
+export const USER_SIGNOUT = 'USER_SIGNOUT'

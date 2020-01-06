@@ -1,0 +1,5 @@
+export const SET_USER = 'SET_USER'
+export const USER_SIGNOUT = 'USER_SIGNOUT'
+export const SET_TOKEN = 'SET_TOKEN'
+export const SET_STRAVA_AUTH_CODE = 'SET_STRAVA_AUTH_CODE'
+export const SET_USER_STORAGE ="SET_USER_STORAGE"

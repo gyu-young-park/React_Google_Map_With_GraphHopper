@@ -1,0 +1,25 @@
+.text-bar{
+  padding-left:50px;
+  padding-top:30px;
+  padding-bottom: 30px;
+  border-top:10px thin black ;
+  border-bottom:5px thin black;
+}
+
+.center-component{
+  background-color: white;
+  box-shadow: 9px 12px 2px 1px rgba(0, 0, 255, .1);
+  margin: 10px;
+}
+
+.left-component{
+  background-color: white;
+  margin: 10px;
+  box-shadow: 9px 12px 2px 1px rgba(0, 0, 255, .1);
+}
+
+.right-component{
+  background-color: white;
+  box-shadow: 9px 12px 2px 1px rgba(0, 0, 255, .1);
+  margin:  10px;
+}

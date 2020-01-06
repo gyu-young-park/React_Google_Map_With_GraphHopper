@@ -1,0 +1,13 @@
+.img-fit-carousel{
+  max-height: 300px;
+  width: auto;
+}
+
+.carousel-size{
+  height: 300px !important;
+  overflow: hidden;
+}
+
+.font-white{
+  color: white;
+}
